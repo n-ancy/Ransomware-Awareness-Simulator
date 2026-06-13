@@ -1,4 +1,4 @@
-# Incident Impact Visualizer
+# Ransomware-Awareness-Simulator
 
 A Python-based desktop simulator designed to visually demonstrate the impact of disruptive cyber incidents in a safe and controlled environment.
 
